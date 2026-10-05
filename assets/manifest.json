@@ -1,0 +1,16 @@
+{
+  "source": "Mitchell Suen LinkedIn funnel graphic, adapted 2026-10-05",
+  "scope": "Example diagram and editable source; not a performance guarantee.",
+  "assets": [
+    {
+      "file": "linkedin-funnel.png",
+      "sha256": "92a74538b77c58e40d22dcd61255f9dac94bfc77ac69fe635ec42316ca1c0130",
+      "source": "output-v3/linkedin-funnel-v3.png"
+    },
+    {
+      "file": "linkedin-funnel.excalidraw",
+      "sha256": "d765006a737f914bf5c15cf1506a97c7cb72d9748ebb7a208875fbb0f32f6e28",
+      "source": "linkedin-funnel-v3.excalidraw"
+    }
+  ]
+}
